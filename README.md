@@ -4,11 +4,6 @@
 
 **Настільний застосунок для планування тренувань, обліку виконаного обсягу та тижневої аналітики «План і факт».**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flet](https://img.shields.io/badge/Flet-GUI-EC407A?style=for-the-badge&logo=flutter&logoColor=white)
-![Storage](https://img.shields.io/badge/Storage-JSON-4CAF50?style=for-the-badge&logo=json&logoColor=white)
-![Tests](https://img.shields.io/badge/Tests-10%20passed-2E7D32?style=for-the-badge)
-
 </div>
 
 ---
